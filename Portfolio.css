@@ -152,7 +152,7 @@ html{
     padding: 20px 0px;
 }
 .header-logo-img{
-    object-fit: cover;
+    object-fit: contain;
     object-position: center;
     height: 100%;
     width: 100%;
@@ -972,7 +972,7 @@ html{
     border: 1px solid rgba(255, 255, 255, 0.06);
 }
 .footer-logo-image{
-    object-fit: cover;
+    object-fit: contain;
     object-position: center;
     height: 100%;
     width: 100%;
@@ -1011,7 +1011,7 @@ html{
 
     .header-logo{
         width: 80px;
-        height: fit-content;
+        height: 80px;
     }
     .header-drawer-box{
         display: none;
@@ -1206,7 +1206,7 @@ html{
 
     .footer-logo{
         width: 80px;
-        height: fit-content;
+        height: 80px;
     }
     .footer-main{
         display: grid;
@@ -1227,7 +1227,7 @@ html{
 
     .header-logo{
         width: 70px;
-        height: fit-content;
+        height: 70px;
     }
     .header-main{
         display: flex;
@@ -1481,7 +1481,7 @@ html{
 
     .footer-logo{
         width: 70px;
-        height: fit-content;
+        height:70px;
     }
     .footer-main{
         display: flex;
