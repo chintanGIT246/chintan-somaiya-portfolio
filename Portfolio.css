@@ -1400,6 +1400,10 @@ html{
     .portfolio-image{
         height: 230px;
     }
+    .swiper-button-next,
+    .swiper-button-prev{
+        display: none;
+    }
 
 
     /* Experience */
