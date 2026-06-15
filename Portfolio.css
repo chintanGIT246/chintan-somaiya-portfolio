@@ -542,7 +542,6 @@ html{
     margin-top: 10px;
 }
 .portfolio-image{
-    height: 300px;
     width: 100%;
     position: relative;
     overflow: hidden;
@@ -1111,6 +1110,9 @@ html{
     .portfolio-mobile-image{
         display: none !important;
     }
+    .portfolio-image{
+        height: 300px;
+    }
 
 
 
@@ -1394,6 +1396,9 @@ html{
     }
     .portfolio-desktop-image{
         display: none !important;
+    }
+    .portfolio-image{
+        height: 230px;
     }
 
 
